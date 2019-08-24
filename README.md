@@ -14,21 +14,16 @@ Sometimes, ha ha. I am a native Texan who happens to have no Texan accent. I rea
 **Completed Projects**
 
 ## Simple Console Dice Java Game
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
- _Italic_ and `Code` text
+
 
 
 ```
 
 
 
-### Support or Contact
+### Contact Information
 
-[LinkedIn](http://www.linkedin.com/in/editjreyes) and ![Image](src)
+[LinkedIn](http://www.linkedin.com/in/editjreyes)
