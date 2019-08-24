@@ -9,7 +9,7 @@ I come from the finance industry where I used no less than 4 different software 
 Sometimes, ha ha. I am a native Texan who happens to have no Texan accent. I read lots of articles online regarding politics, technology, real estate/mortgage, education and cooking. (Trying to cook more.) At this point in my life, I am just trying to learn and try new things as much as possible because if not now then when?
 
 ```markdown
-**Completed Projects**
+__Completed Projects__
 
 ## Simple Console Dice Java Game
 
