@@ -1,5 +1,3 @@
-# Welcome to Edit's Life
-
 ## Why did I choose to learn code? 
 Simple answer: I like to fix things or improve the things I use everyday.  
 
