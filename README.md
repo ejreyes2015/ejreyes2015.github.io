@@ -1,18 +1,19 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ejreyes2015/ejreyes2015.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+## Why did I choose to learn code? 
+Simple answer: I like to fix things or improve the things I use everyday.  
 
 # Who Am I? 
-## Header 2
+I come from the finance industry where I used no less than 4 different software systems to do my job and was annoyed at all the fact that at times I was doing double work when moving from one system to another. In finance you can have 4 or more systems that don't "talk" to each other and have deficiencies that people work around by using an excel. I am working to become a proficient enough developer that hopefully once day I can minimize or eliminate the need of using excel to work around the limitations of software. (I know very lofty goals. lol) 
+<side note: If you haven't experienced the joy of going between multiple systems and getting frustrated because you still can't keep track of everything you need so you create an excel sheet then count yourself as very fortunate.> 
+
+# Is everything above all I'm about?
+Sometimes, ha ha. I am a native Texan who happens to have no Texan accent. I read lots of articles online regarding politics, technology, real estate/mortgage, education and cooking. (Trying to cook more.) At this point in my life, I am just trying to learn and try new things as much as possible because if not now then when?
+
+```markdown
+**Completed Projects**
+
+## Simple Console Dice Java Game
 ### Header 3
 
 - Bulleted
@@ -21,17 +22,13 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+ _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ejreyes2015/ejreyes2015.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[LinkedIn](www.linkedin.com/in/editjreyes) and ![Image](src)
