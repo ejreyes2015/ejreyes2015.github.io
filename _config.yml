@@ -1,3 +1,17 @@
 theme: minimal-mistakes-jekyll
 title: Welcome to Edit Reyes' Homepage
-description: More about Edit Reyes 
+description: More about Edit Reyes
+
+# Minimal Mistakes specific settings
+author:
+  name: Edit Reyes
+  avatar: "/assets/images/avatar.png"
+  bio: "My bio"
+  location: "Location"
+  email: "email@example.com"
+  uri: "https://example.com"
+
+# Social media links
+social:
+  twitter: TBD
+  github:  ejreyes2015
