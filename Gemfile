@@ -1,7 +1,4 @@
 source "https://rubygems.org"
 
-# Specify the Jekyll gem
-gem "jekyll"
-
-# Specify the Minimal Mistakes theme
+gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
